@@ -12,12 +12,12 @@ function Header(){
                 <nav className="navigation">
                     <a href='/'>Início</a>
                     <a href='/produtos'>Produtos</a>
-                    <a href='/sobre'>Sobre</a>
+                    <a href='/login'>Login/Cadastro</a>
                 </nav>
                 
                 <div className='header-actions'>
                     <button className='cart-button'>
-                        🛒 Carrinho
+                        🛒
                     </button>
                 </div>
 
