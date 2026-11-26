@@ -2,7 +2,7 @@ import '../styles/Header.css';
 
 function Header(){
     return(
-        <Header className="header">
+        <header className="header">
             <div className="header-container">
 
                 <div className="logo">
@@ -22,7 +22,7 @@ function Header(){
                 </div>
 
             </div>
-        </Header>
+        </header>
     )
 }
 export default Header
